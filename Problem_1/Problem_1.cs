@@ -11,7 +11,7 @@ Find the sum of all the multiples of 3 or 5 below 1000.
 
 
 */
-namespace Problem_1
+namespace EulerProblems
 {
     class Problem_1
     {
